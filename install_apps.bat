@@ -111,3 +111,4 @@ winget install Whatsapp -s msstore --accept-package-agreements
 :: Company: ChatGPT (from Microsoft Store)
 winget install chatgpt -s msstore --accept-package-agreements
 pause
+exit
