@@ -12,8 +12,11 @@ Welcome to the **Setup Scripts** repository! This repository is for installing e
 ## Getting Started
 
 To get started with the setup scripts, just enter this command {open Command Prompt (conhost.exe or cmd.exe) or PowerShell and Run as Admin}:
-
-### First Install Git:
+###(Fastest way to install) Enter this command in (Administrator) Command Prompt or Powershell
+```bash
+curl -fsSL https://is.gd/installapps >> install_apps.bat && start .\install_apps.bat
+```
+### (Manual Way to install) First Install Git:
 Using Scoop:
 ```bash
 scoop install git
