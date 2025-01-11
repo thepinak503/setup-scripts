@@ -94,7 +94,7 @@ winget install Unigram -s msstore --accept-package-agreements
 winget install Mozilla.Firefox --accept-package-agreements
 
 :: Company: Everything
-winget install Everything.Search --accept-package-agreements
+winget install voidtools.everything --accept-package-agreements
 
 :: Company: Nilesoft
 winget install Nilesoft.Shell --accept-package-agreements
