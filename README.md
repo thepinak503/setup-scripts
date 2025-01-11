@@ -132,7 +132,7 @@ git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts &
 37. [**StartAllBack (For Windows 11 only!)**](https://www.startallback.com/)
 
 ### Company: Whatsapp (from Microsoft Store)
-38. [**Whatsapp (from Microsoft Store)**](https://apps.microsoft.com/detail/9n1h2v9s8twf)
+38. [**Whatsapp (from Microsoft Store)**](https://apps.microsoft.com/detail/9nksqgp7f2nh)
 
 ## License
 
