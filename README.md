@@ -180,6 +180,9 @@ This script installs the following apps.
 
 38. [**Whatsapp (from Microsoft Store)**](https://apps.microsoft.com/detail/9nksqgp7f2nh)
 
+39. [**micro text editor**](https://micro-editor.github.io/)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
