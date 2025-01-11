@@ -32,8 +32,8 @@ Then Install Apps:
 
 ## Features
 
-1.  [**Mercury Browser](https://thorium.rocks/mercury) (Fastest Firefox Gecho based Browser)**
-2.  [**Thorium Browser](https://thorium.rocks) (Fastest Firefox Gecho based Browser)**
+1.  [**Mercury Browser (Fastest Firefox Gecho based Browser)](https://thorium.rocks/mercury)**
+2.  [**Thorium Browser (Fastest Firefox Gecho based Browser)](https://thorium.rocks)**
 3.  [**Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)**
 4.  [**Bleachbit (PC Cleaner)](https://github.com/bleachbit/bleachbit)**
 5.  [**ChatGPT** (from Microsoft Store)](https://apps.microsoft.com/detail/9nt1r1c2hh7j?hl=en-US&gl=US)
