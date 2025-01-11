@@ -33,6 +33,7 @@ git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts &
 ```
 
 ## Features
+This script installs the following apps.
 
 ### Company: Alex313031
 1. [**Mercury Browser (Fastest Firefox Gecko-based Browser)**](https://thorium.rocks/mercury)
@@ -125,7 +126,7 @@ git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts &
 ### Company: XDM (from Microsoft Store)
 35. [**XDM (from Microsoft Store)**](https://apps.microsoft.com/detail/9n5jjzw4qzbr)
 
-### Company: Unigram (from Microsoft Store)
+### Company: Unigram (Telegram client) (from Microsoft Store)
 36. [**Unigram (from Microsoft Store)**](https://apps.microsoft.com/detail/9n97zckpd60q?hl=en-gb&gl=IN)
 
 ### Company: StartAllBack
