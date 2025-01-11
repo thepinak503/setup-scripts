@@ -179,8 +179,11 @@ This script installs the following apps.
 ### Company: Whatsapp (from Microsoft Store)
 
 38. [**Whatsapp (from Microsoft Store)**](https://apps.microsoft.com/detail/9nksqgp7f2nh)
+### Company: Whatsapp (from Microsoft Store)
 
-39. [**micro text editor**](https://micro-editor.github.io/)
+
+### Company: Micro
+39. [**micro text editor(Similar to nano but better functionality)**](https://micro-editor.github.io/)
 
 
 ## License
