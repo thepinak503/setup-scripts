@@ -11,7 +11,7 @@ Welcome to the **Setup Scripts** repository! This repository is for installing e
 
 ## Getting Started
 
-To get started with the setup scripts, just enter this command {open Command Prompt (conhost.exe or cmd.exe) or PowerShell and Run as Admin}:
+To get started with the setup scripts, just enter this command {open Command Prompt and Run as Admin}:
 
 ### (Fastest way to install) Enter this command in (Administrator) Command Prompt or PowerShell
 
