@@ -142,10 +142,6 @@ winget install Nilesoft.Shell --accept-package-agreements
 echo Installing "7-Zip"...
 winget install 7-Zip.7zip --accept-package-agreements
 
-:: Company: StartAllBack (Uncommented if needed)
-echo Installing "StartAllBack"...
-winget install StartAllBack --accept-package-agreements
-
 :: Company: Whatsapp (from Microsoft Store)
 echo Installing "Whatsapp"...
 winget install Whatsapp -s msstore --accept-package-agreements
