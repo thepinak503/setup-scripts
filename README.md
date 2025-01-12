@@ -13,7 +13,7 @@ Welcome to the **Setup Scripts** repository! This repository is for installing e
 
 To get started with the setup scripts, just enter this command {open Command Prompt and Run as Admin}:
 
-### (Fastest way to install) Enter this command in (Administrator) Command Prompt or PowerShell
+### (Fastest way to install) Enter this command in (Administrator) Command Prompt:
 
 ```bash
 curl -fsSL https://is.gd/installapps >> install_apps.bat && start .\install_apps.bat
