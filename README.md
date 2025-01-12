@@ -60,7 +60,7 @@ This script installs the following apps.
 
 ### Company: Bleachbit
 
-4. [**Bleachbit (PC Cleaner)**](https://github.com/bleachbit/bleachbit)
+4. [**Bleachbit (PC Cache Cleaner)**](https://github.com/bleachbit/bleachbit)
 
 ### Company: ChatGPT (from Microsoft Store)
 
