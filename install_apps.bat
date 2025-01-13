@@ -32,7 +32,7 @@ winget install dupeguru.DupeGuru --accept-package-agreements
 
 :: Company: Fastfetch
 echo Installing "Fastfetch"...
-winget install Fastfetch --accept-package-agreements
+winget install Fastfetch cpufetch neofetch --accept-package-agreements
 
 :: Company: FlowLauncher
 echo Installing "FlowLauncher"...
@@ -153,6 +153,5 @@ winget install chatgpt -s msstore --accept-package-agreements
 :: Company : Zyedidia
 echo Installing "micro"...
 winget install zyedidia.micro --accept-package-agreements
-
 pause
 exit
