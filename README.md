@@ -174,7 +174,12 @@ This script installs the following apps.
 
 ### Company: StartAllBack
 
-37. [**StartAllBack (For Windows 11 only!)**](https://www.startallback.com/)
+37. [**StartAllBack (For Windows 11 only if you want to install!)**](https://www.startallback.com/)
+
+command:
+```bash
+winget install startallback
+```
 
 ### Company: Whatsapp (from Microsoft Store)
 
@@ -183,7 +188,7 @@ This script installs the following apps.
 
 
 ### Company: Micro
-39. [**micro text editor(Similar to nano but better functionality)**](https://micro-editor.github.io/)
+39. [**Micro Text Editor (Similar to Nano but better functionality)**](https://micro-editor.github.io/)
 
 
 ## License
