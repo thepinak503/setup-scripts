@@ -178,7 +178,7 @@ This script installs the following apps.
 
 command:
 ```bash
-winget install startallback
+winget install startallback --accept-package-agreements
 ```
 
 ### Company: Whatsapp (from Microsoft Store)
