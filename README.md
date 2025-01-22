@@ -176,7 +176,7 @@ This script installs the following apps.
 
 37. [**StartAllBack (For Windows 11 only if you want to install!)**](https://www.startallback.com/)
 
-command:
+Paste this to Command Prompt/Powershell:
 ```bash
 winget install startallback --accept-package-agreements
 ```
