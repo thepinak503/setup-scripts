@@ -25,3 +25,8 @@ function Remove-HistoryFile {
 # Remove the history files
 Remove-HistoryFile -filePath $pwshHistoryPath
 Remove-HistoryFile -filePath $pwshCoreHistoryPath
+
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+cls
