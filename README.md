@@ -158,7 +158,7 @@ This script installs the following apps.
 
 ### Company: Winaero
 
-33. [**Winaero Tweaker (Tweaks system settings)**](https://winaerotweaker.com/)
+33. [**Winaero Tweaker (Shows and tweaks system settings)**](https://winaerotweaker.com/)
 
 ### Company: WizTree
 
