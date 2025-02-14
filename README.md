@@ -42,7 +42,7 @@ winget install git.git
 ### Then Install Apps:
 
 ```bash
-git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts && start install_apps.bat
+git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts && start install_apps.bat && del install_apps.bat
 ```
 
 ## Features
