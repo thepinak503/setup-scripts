@@ -110,4 +110,7 @@ winget install chatgpt -s msstore --accept-package-agreements
 
 :: Company: Freetube
 winget install freetube --accept-package-agreements
+
+:: Company lsd
+winget install --id lsd-rs.lsd --accept-package-agreements
 pause
