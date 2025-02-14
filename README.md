@@ -16,9 +16,9 @@ To get started with the setup scripts, just enter this command {open Command Pro
 ### (Fastest way to install) Enter this command in (Administrator) Command Prompt:
 
 ```bash
-curl -fsSL https://is.gd/installapps >> install_apps.bat && start .\install_apps.bat && del install_apps.bat
+curl -fsSL https://is.gd/installapps -o install_apps.bat && cmd /c install_apps.bat && del install_apps.bat || echo "Download failed."
 ```
-
+### If this curl command doesn't work then this is the manual way to install apps.
 ### (Manual Way to install) First Install Git:
 
 Using Scoop:
@@ -42,7 +42,7 @@ winget install git.git
 ### Then Install Apps:
 
 ```bash
-git clone https://github.com/thepinak503/setup-scripts.git && cd setup-scripts && start install_apps.bat && cd .. && del setup-scripts/
+git clone https://github.com/thepinak503/setup-scripts.git Install && cd Install && cmd /c install_apps.bat && cd .. && rmdir /S /Q "%userprofile%\Install"
 ```
 
 ## Features
